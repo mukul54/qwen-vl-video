@@ -1,0 +1,76 @@
+{
+    "metrics": {
+      "rouge": {
+        "rouge1": 0.18523874389938627,
+        "rouge2": 0.11119142068458514,
+        "rougeL": 0.1759413582784712,
+        "rougeLsum": 0.1800541700698544
+      },
+      "bleu": 0.044053055397591676,
+      "meteor": 0.2823128853808375
+    },
+    "results": [
+      {
+        "question": "What actions are taking place in this clip?",
+        "prediction": "system\nYou are Qwen, an AI vision assistant. Please describe the video content.\nuser\n\nassistant\nThe actions include a man in a suit with a phone in his hand.",
+        "reference": "The actions include bed of colorful tulips.",
+        "video": "videos/34422271.mp4"
+      },
+      {
+        "question": "What's the key element in this video?",
+        "prediction": "system\nYou are Qwen, an AI vision assistant. Please describe the video content.\nuser\n\nassistant\nThe key element is a man in a suit with a phone in his hand.",
+        "reference": "The key element is senior man and woman sticking moustache to each other and making funny faces. fun together.",
+        "video": "videos/15639571.mp4"
+      },
+      {
+        "question": "What is the most notable aspect of this video?",
+        "prediction": "system\nYou are Qwen, an AI vision assistant. Please describe the video content.\nuser\n\nassistant\nThe most notable aspect is a young woman in a red dress with a red umbrella walks along the embankment.",
+        "reference": "The most notable aspect is bangkok, thailand, september 2014: a group of cute asian kids have fun coloring during an english lesson in the slums of bangkok, thailand.",
+        "video": "videos/7488115.mp4"
+      },
+      {
+        "question": "Please describe what is happening in this video.",
+        "prediction": "system\nYou are Qwen, an AI vision assistant. Please describe the video content.\nuser\n\nassistant\nThe answer is the question. The question is the answer. The answer is the question. The question is the answer. The answer is the question. The question is the answer. The answer is the question. The question is the answer. The answer is the question. The question is the answer. The answer is the question. The question is the answer. The answer is the question. The question is the answer. The answer is the question. The question is the answer. The answer is the question. The question is the answer. The answer is the question. The question is the answer. The answer is the question. The question is the answer. The answer is the question. The question is the answer. The answer is the question.",
+        "reference": "In this video, oil refinery timelapse.",
+        "video": "videos/10251647.mp4"
+      },
+      {
+        "question": "Can you explain the main activity in this video?",
+        "prediction": "system\nYou are Qwen, an AI vision assistant. Please describe the video content.\nuser\n\nassistant\nThe main activity shows a man in a suit with a phone in his hand.",
+        "reference": "The main activity shows bedroom interior.",
+        "video": "videos/14830462.mp4"
+      },
+      {
+        "question": "Please describe what is happening in this video.",
+        "prediction": "system\nYou are Qwen, an AI vision assistant. Please describe the video content.\nuser\n\nassistant\nThe answer to this question is found in this video.",
+        "reference": "In this video, ominous political statement typography - political correctness.",
+        "video": "videos/27813949.mp4"
+      },
+      {
+        "question": "What do you observe in this video?",
+        "prediction": "system\nYou are Qwen, an AI vision assistant. Please describe the video content.\nuser\n\nassistant\nI observe a man in a suit with a laptop in his hands in the office.",
+        "reference": "I observe a man chooses products in the store.",
+        "video": "videos/1022213260.mp4"
+      },
+      {
+        "question": "What's happening in this footage?",
+        "prediction": "system\nYou are Qwen, an AI vision assistant. Please describe the video content.\nuser\n\nassistant",
+        "reference": "This footage shows domzale, slovenia - 10. july 2018 this young woman is unstoppable and she is working out outdoors. she is very focused and dedicated.",
+        "video": "videos/1022550274.mp4"
+      },
+      {
+        "question": "Please describe what is happening in this video.",
+        "prediction": "system\nYou are Qwen, an AI vision assistant. Please describe the video content.\nuser\n\nassistant\nIn this video, a man in a suit and glasses is sitting on a chair and talking on the phone.",
+        "reference": "In this video, frankfurt am main, germany. august 2019. tilt movement on the ecb tower, the new headquarters of the european bank. the skyscraper has a mirrored facade on which the clouds are reflected. 30fps.",
+        "video": "videos/1037593697.mp4"
+      },
+      {
+        "question": "What's the key element in this video?",
+        "prediction": "system\nYou are Qwen, an AI vision assistant. Please describe the video content.\nuser\n\nassistant\nThe key element is a man in a suit with a phone in his hand.",
+        "reference": "The key element is cute blond girl playing between tree trunks in park. handheld steadycam flycam movement shot.",
+        "video": "videos/1043926594.mp4"
+      }
+    ],
+    "valid_predictions": 10,
+    "total_samples": 10
+  }
