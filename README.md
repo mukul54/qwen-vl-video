@@ -94,19 +94,6 @@ def generate_response(self, question: str, video_path: str):
     - Returns natural language description
     """
 ```
-
-## Current Issues
-
-1. **Video Token Alignment**
-   - Error: "Video features and video tokens do not match: tokens: 0, features 256"
-   - Model expects alignment between video pad tokens and frame features
-   - Current mismatch between processed features and expected token count
-
-2. **Generation Quality**
-   - Some responses are empty or repetitive
-   - Need to improve prompt engineering and generation parameters
-   - Potential issues with model fine-tuning setup
-
 ## Troubleshooting Steps
 
 1. **Video Feature Processing**
